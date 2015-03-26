@@ -1151,7 +1151,7 @@ html .ui-bar-b a,
 html .ui-body-b a,
 html body .ui-group-theme-b a {
 	color: #22aadd /*{b-link-color}*/;
-	font-weight: bold;
+	font-weight: 400;
 }
 .ui-page-theme-b a:visited,
 html .ui-bar-b a:visited,
